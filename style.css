@@ -179,6 +179,73 @@ font-weight: 400;
 .write img{
  width: 165px;
 }
+.repojitore{
+    /* justify-content: center;
+    align-items: center; */
+    text-align: center;
+    width: 1100px;
+height: 50px;
+border-radius: 8px;
+background: #FFF4E7;
+padding: 50px;
+margin-left:100px ;
+margin-right:100px ;
+margin-bottom: 216px;
+margin-top:130px ;
+}
+.template{
+    color: var(--dark-02, #424242);
+text-align: center;
+font-size: 16px;
+font-weight: 400;
+}
+.cat{
+    display: flex;
+    margin-top: 130px;
+    margin-left: 100px;
+    gap:100px;
+}
+.fetaure-contant .card{
+    margin-bottom: 20px;
+    padding: 10px;
+    gap: 50px;
+    width: 700px;
+    height: 180px;
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+}
+ .ten-years-badge{
+    width: 242px;
+height: 160px;
+border-radius: 8px;
+background: #FF900E;
+color: #FFF;
+padding: 40px;
+padding-bottom: 70px;
+ }
+ .ten-years-badge, .r{
+    font-size: 40px;
+    pa
+ }
+
+.div-1{
+color: var(--dark-03, #727272);
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+}
+.pen{
+    border-left: 5px solid #FF900E;
+    height: 60px;
+    padding: 10px;
+}
+.rain{
+    width:600px;
+height: 800px;
+border-radius: 8px;
+background: #FF900E;
+}
 
 /* responsive media queries */ 
 @media screen and (max-width: 576px){
@@ -207,6 +274,7 @@ font-weight: 400;
     gap: 20px;
 }
 }
+
   /* tablet or mobile device   */
 @media screen and (min-width: 576px) and (max-width: 960px){
     header{
