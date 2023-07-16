@@ -280,6 +280,10 @@ background: #FF900E;
     flex-direction: column;
     padding: 20px;
 }
+.rain{
+   width:100%;
+   margin-left: 0px;
+}
 }
 
   /* tablet or mobile device   */
